@@ -87,7 +87,7 @@ git init  # Inicializa um repositório Git (caso ainda não exista)
 git add calculadora.sh README.md  # Adiciona os arquivos ao controle de versão
 git commit -m "Adicionando script calculadora e documentação"
 git branch -M main  # Renomeia a branch principal para main
-git remote add origin https://github.com/AlaorJ89
+git remote add origin https://github.com/AlaorJ89/Calculadora
 git push -u origin main  # Envia os arquivos para o GitHub
 ```
 
